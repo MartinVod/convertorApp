@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/convertorApp/static/css/main.e9d51657.chunk.css",
+    "main.js": "/convertorApp/static/js/main.cedf2b71.chunk.js",
+    "main.js.map": "/convertorApp/static/js/main.cedf2b71.chunk.js.map",
+    "runtime-main.js": "/convertorApp/static/js/runtime-main.62d4cf67.js",
+    "runtime-main.js.map": "/convertorApp/static/js/runtime-main.62d4cf67.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/convertorApp/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.db5cc0d1.chunk.js": "/convertorApp/static/js/2.db5cc0d1.chunk.js",
+    "static/js/2.db5cc0d1.chunk.js.map": "/convertorApp/static/js/2.db5cc0d1.chunk.js.map",
+    "static/js/3.ddd79e07.chunk.js": "/convertorApp/static/js/3.ddd79e07.chunk.js",
+    "static/js/3.ddd79e07.chunk.js.map": "/convertorApp/static/js/3.ddd79e07.chunk.js.map",
+    "index.html": "/convertorApp/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/convertorApp/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.e9d51657.chunk.css.map": "/convertorApp/static/css/main.e9d51657.chunk.css.map",
+    "static/js/2.db5cc0d1.chunk.js.LICENSE.txt": "/convertorApp/static/js/2.db5cc0d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62d4cf67.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.db5cc0d1.chunk.js",
+    "static/css/main.e9d51657.chunk.css",
+    "static/js/main.cedf2b71.chunk.js"
+  ]
+}
